@@ -141,6 +141,9 @@ class Store extends StatelessWidget {
           ),
         ],
       ),
+      floatingActionButton: const Icon(
+        Icons.add_circle,
+      ),
     );
   }
 }
